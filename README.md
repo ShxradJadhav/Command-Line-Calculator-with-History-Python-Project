@@ -24,7 +24,7 @@ README.md # Project details
 1. Make sure you have Python installed.
 2. Clone the repository or download the files.
 3. Run the calculator:
-```bash
+``bash
 python calculator.py
 
 📸 Sample Output
